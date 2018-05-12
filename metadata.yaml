@@ -1,0 +1,50 @@
+_repo: The-Baby-s-Own-Aesop_25433
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Linton, W. J. (William James)
+    alias: Linton, William James
+    birthdate: 1812
+    deathdate: 1897
+    gutenberg_agent_id: '31337'
+    url: http://www.gutenberg.org/2009/agents/31337
+    wikipedia: http://en.wikipedia.org/wiki/William_James_Linton
+  engineer:
+    agent_name: Evans, Edmund
+    alias: Evans, E. (Edmund)
+    birthdate: 1826
+    deathdate: 1905
+    gutenberg_agent_id: '31336'
+    url: http://www.gutenberg.org/2009/agents/31336
+covers:
+- cover_type: archival
+  image_path: 25433-h/images/front_cover.png
+creator:
+  authors:
+  - agent_name: Aesop
+    alias: Æsop
+    gutenberg_agent_id: '18'
+    url: http://www.gutenberg.org/2009/agents/18
+    wikipedia: http://en.wikipedia.org/wiki/Aesop
+  - agent_name: Crane, Walter
+    birthdate: 1845
+    deathdate: 1915
+    gutenberg_agent_id: '7195'
+    url: http://www.gutenberg.org/2009/agents/7195
+    wikipedia: http://en.wikipedia.org/wiki/Walter_Crane
+description: ''
+gutenberg_bookshelf: Children's Picture Books
+gutenberg_issued: '2008-05-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25433'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fables'
+- !lcc 'PZ'
+- !lcsh 'Fables, Greek -- Adaptations'
+title: The Baby's Own Aesop
+url: http://www.gutenberg.org/ebooks/25433
